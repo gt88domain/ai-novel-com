@@ -1,0 +1,702 @@
+{
+    "wikipedia.org": {
+        "description": "The world's largest free online encyclopedia, offering comprehensive knowledge across multiple languages through collaborative editing.",
+        "content": "Wikipedia is a multilingual free online encyclopedia featuring millions of articles maintained by a global community of volunteers, covering topics from science and history to arts and culture, making it an essential resource for research and learning.",
+        "sescribe": "US-PC-TOP-1. A comprehensive online encyclopedia that democratizes knowledge through collaborative editing and multilingual content accessibility.",
+        "category": "Encyclopedias",
+        "tags": ["Knowledge Base", "Research Tools", "Educational Content", "Documentation", "Collaborative Platform"]
+    },
+    "youtube.com": {
+        "description": "The world's leading video sharing platform offering diverse content from entertainment to education, with features for creators and viewers.",
+        "content": "YouTube serves as a global video sharing platform where users can upload, view, and share content ranging from entertainment and music to educational tutorials and live streams, supported by features like subscriptions, comments, and personalized recommendations.",
+        "sescribe": "US-PC-TOP-2. A comprehensive video sharing platform that enables content creators to share diverse content while offering viewers personalized entertainment and educational experiences.",
+        "category": "Video Streaming",
+        "tags": ["Content Creation", "Live Streaming", "Entertainment News", "Media Archives", "Video Resources"]
+    },
+    "twitter.com": {
+        "description": "A dynamic social media platform for real-time conversations, news sharing, and public discourse through short-form content.",
+        "content": "Twitter (X) enables real-time global conversations and information sharing through short messages, featuring trending topics, multimedia sharing, and direct messaging, making it a hub for news, entertainment, and public dialogue.",
+        "sescribe": "US-PC-TOP-3. A real-time social networking platform that facilitates public conversations and information sharing through concise messages and multimedia content.",
+        "category": "Microblogging",
+        "tags": ["Social Networks", "News Platform", "Media Archives", "Content Management", "Publishing Tools"]
+    },
+    "instagram.com": {
+        "description": "A visual-focused social media platform for sharing photos and videos, featuring stories, reels, and creative tools.",
+        "content": "Instagram combines photo and video sharing with creative tools, filters, and features like Stories and Reels, enabling users to share moments, follow interests, and engage with a global community through visual content.",
+        "sescribe": "US-PC-TOP-4. A visual-centric social platform that enables creative expression through photos, videos, stories, and interactive features.",
+        "category": "Photo Sharing",
+        "tags": ["Social Networks", "Content Creation", "Design Resources", "Video Resources", "Media Archives"]
+    },
+    "amazon.com": {
+        "description": "The world's largest e-commerce platform offering a vast selection of products, digital services, and fast delivery options.",
+        "content": "Amazon provides a comprehensive online shopping experience with millions of products, Prime membership benefits, and services including streaming, cloud storage, and smart home solutions.",
+        "sescribe": "US-PC-TOP-5. A global e-commerce leader offering extensive product selection, rapid delivery, and integrated digital services.",
+        "category": "Global Marketplaces",
+        "tags": ["Digital Products", "Cloud Storage", "Entertainment News", "Streaming Services", "Shopping Platform"]
+    },
+    "google.com": {
+        "description": "The world's leading search engine providing access to global information, with integrated services for email, maps, and cloud storage.",
+        "content": "Google offers comprehensive search capabilities alongside a suite of web services including Gmail, Maps, Drive, and various productivity tools, making it an essential gateway to online information and services.",
+        "sescribe": "US-PC-TOP-6. A powerful search engine and digital services platform that organizes and makes accessible the world's information.",
+        "category": "General Search",
+        "tags": ["Cloud Platforms", "Digital Products", "Document Sharing", "Translation Tools", "Business Tools"]
+    },
+    "facebook.com": {
+        "description": "A leading social networking platform connecting billions of users through shared content, groups, and messaging features.",
+        "content": "Facebook enables global social connections through profiles, news feeds, groups, and messaging, while offering tools for businesses, event organization, and community building.",
+        "sescribe": "US-PC-TOP-7. A comprehensive social networking platform that connects people, communities, and businesses through shared content and interactions.",
+        "category": "Social Networks",
+        "tags": ["Photo Sharing", "Content Management", "Community Events", "Media Archives", "Business Tools"]
+    },
+    "imdb.com": {
+        "description": "The world's largest database for movies, TV shows, and entertainment industry information.",
+        "content": "IMDb provides comprehensive information about films, television shows, cast and crew details, ratings, reviews, and entertainment industry news, serving as an essential resource for entertainment enthusiasts.",
+        "sescribe": "US-PC-TOP-8. An extensive entertainment database offering detailed information about movies, TV shows, and the entertainment industry.",
+        "category": "Entertainment News",
+        "tags": ["Movie Reviews", "TV Guides", "Media Archives", "Content Management", "Rating Platform"]
+    },
+    "pornhub.com": {
+        "description": "An adult entertainment platform offering a wide range of adult content with user-generated and professional materials.",
+        "content": "Adult content sharing platform featuring various categories of adult entertainment, including user-uploaded content, professional productions, and live streaming services.",
+        "sescribe": "US-PC-TOP-9. An adult entertainment platform providing diverse content categories and interactive features.",
+        "category": "Adult Entertainment",
+        "tags": ["Video Streaming", "Content Creation", "Live Streaming", "Media Archives", "Adult Forums"]
+    },
+    "reddit.com": {
+        "description": "A community-driven platform featuring user-generated content, discussions, and news across diverse topics and interests.",
+        "content": "Reddit combines social news, web content rating, and discussion forums where registered members submit content and participate in topic-specific communities called subreddits.",
+        "sescribe": "US-PC-TOP-10. A dynamic social news and discussion platform organized into specialized communities with user-driven content and moderation.",
+        "category": "Social Networks",
+        "tags": ["Content Management", "News Platform", "Community Events", "Media Archives", "Discussion Forums"]
+    },
+    "fandom.com": {
+        "description": "A fan-driven entertainment platform hosting wikis and communities for various media franchises, games, and pop culture.",
+        "content": "Fandom provides a platform for fans to create, share, and explore detailed wikis about their favorite entertainment properties, including games, movies, TV shows, and books, fostering collaborative content creation and community engagement.",
+        "sescribe": "US-PC-TOP-11. A collaborative wiki platform where fans create and curate comprehensive information about entertainment franchises and pop culture.",
+        "category": "Entertainment News",
+        "tags": ["Gaming Communities", "Content Creation", "Media Archives", "Fan Communities", "Wiki Platform"]
+    },
+    "weather.com": {
+        "description": "A comprehensive weather forecasting service providing local and global weather information, maps, and alerts.",
+        "content": "The Weather Channel's digital platform delivers accurate weather forecasts, radar maps, severe weather alerts, and climate information, helping users plan and stay informed about weather conditions worldwide.",
+        "sescribe": "US-PC-TOP-12. A leading weather information platform providing forecasts, radar maps, and severe weather alerts for locations worldwide.",
+        "category": "Weather Services",
+        "tags": ["Climate Data", "Weather Maps", "Natural Disasters", "Environmental Info", "Local Guides"]
+    },
+    "apple.com": {
+        "description": "The official website for Apple Inc., showcasing their products, services, and digital ecosystem.",
+        "content": "Apple's website serves as a hub for their hardware products, software services, and support resources, featuring an online store, product information, and access to services like iCloud, App Store, and Apple Music.",
+        "sescribe": "US-PC-TOP-13. A comprehensive platform for Apple's technology ecosystem, including product information, digital services, and support resources.",
+        "category": "Tech Reviews",
+        "tags": ["Digital Products", "Hardware Info", "Software Downloads", "Cloud Storage", "Tech Support"]
+    },
+    "linkedin.com": {
+        "description": "The world's largest professional networking platform connecting professionals, businesses, and job seekers.",
+        "content": "LinkedIn enables professional networking, career development, and business connections through profiles, job listings, industry news, and professional content sharing.",
+        "sescribe": "US-PC-TOP-14. A professional networking platform facilitating career development, business connections, and industry insights.",
+        "category": "Professional Networks",
+        "tags": ["Job Boards", "Career Resources", "Business Tools", "Industry Analysis", "Content Creation"]
+    },
+    "xvideos.com": {
+        "description": "An adult entertainment website offering a wide variety of adult content and streaming services.",
+        "content": "Adult content platform providing streaming services for various categories of adult entertainment, including user-generated and professional content.",
+        "sescribe": "US-PC-TOP-15. An adult entertainment streaming platform offering diverse content categories and user interactions.",
+        "category": "Adult Entertainment",
+        "tags": ["Video Streaming", "Content Creation", "Live Streaming", "Media Archives", "Adult Forums"]
+    },
+    "pinterest.com": {
+        "description": "A visual discovery platform for finding ideas and inspiration across various topics through image and video pins.",
+        "content": "Pinterest enables users to discover, save, and organize visual content through pins and boards, covering topics from home decor and recipes to fashion and DIY projects.",
+        "sescribe": "US-PC-TOP-16. A visual inspiration platform where users discover and collect ideas through image-based content curation.",
+        "category": "Photo Sharing",
+        "tags": ["Design Resources", "Creative Platform", "Content Creation", "Visual Content", "Idea Sharing"]
+    },
+    "yahoo.com": {
+        "description": "A web services provider offering news, email, search, and various digital services in one platform.",
+        "content": "Yahoo combines news aggregation, email services, search functionality, and various web services including finance, sports, and entertainment content.",
+        "sescribe": "US-PC-TOP-17. A comprehensive web portal providing news, email, search, and diverse digital services.",
+        "category": "General Search",
+        "tags": ["News Platform", "Email Services", "Financial News", "Sports News", "Entertainment News"]
+    },
+    "walmart.com": {
+        "description": "The online retail platform for Walmart, offering a wide range of products with online and in-store shopping options.",
+        "content": "Walmart's e-commerce site provides access to their extensive product catalog, featuring competitive pricing, grocery delivery, and pickup services, along with customer reviews and shopping tools.",
+        "sescribe": "US-PC-TOP-18. A comprehensive retail platform combining online shopping with local store integration and delivery services.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Digital Products", "Local Guides", "Service Booking", "Price Comparison"]
+    },
+    "tiktok.com": {
+        "description": "A short-form video platform featuring user-generated content, trending challenges, and creative tools.",
+        "content": "TikTok enables users to create, share, and discover short videos with music, effects, and filters, fostering a unique social media environment focused on creative expression and entertainment.",
+        "sescribe": "US-PC-TOP-19. A dynamic short-video platform that empowers creative expression through engaging content and trending challenges.",
+        "category": "Video Streaming",
+        "tags": ["Content Creation", "Social Networks", "Entertainment News", "Music Platforms", "Creative Platform"]
+    },
+    "espn.com": {
+        "description": "The leading sports news and information website covering professional and collegiate sports worldwide.",
+        "content": "ESPN provides comprehensive sports coverage including news, scores, statistics, analysis, and streaming content across all major sports and leagues.",
+        "sescribe": "US-PC-TOP-20. A comprehensive sports media platform delivering news, scores, analysis, and live coverage across all major sports.",
+        "category": "Sports News",
+        "tags": ["Team Sports", "Live Streaming", "News Platform", "Media Archives", "Sports Coverage"]
+    },
+    "merriam-webster.com": {
+        "description": "A trusted online dictionary and thesaurus providing comprehensive language resources and educational content.",
+        "content": "Merriam-Webster offers authoritative dictionary definitions, thesaurus entries, word games, and language learning resources, serving as a comprehensive reference for English language users.",
+        "sescribe": "US-PC-TOP-21. An authoritative online dictionary platform providing comprehensive language resources and educational tools.",
+        "category": "Dictionary Sites",
+        "tags": ["Educational Content", "Research Tools", "Language Learning", "Word Games", "Reference Platform"]
+    },
+    "quora.com": {
+        "description": "A knowledge-sharing platform where users ask questions and receive answers from a global community.",
+        "content": "Quora facilitates knowledge exchange through question-and-answer interactions, expert insights, and community discussions across diverse topics.",
+        "sescribe": "US-PC-TOP-22. A community-driven knowledge sharing platform connecting questions with expert answers and insights.",
+        "category": "Educational Content",
+        "tags": ["Knowledge Base", "Professional Networks", "Content Creation", "Discussion Forums", "Expert Platform"]
+    },
+    "mayoclinic.org": {
+        "description": "A comprehensive medical information resource providing expert health information and patient care guidance.",
+        "content": "Mayo Clinic's website offers reliable health information, disease conditions, treatment options, and wellness resources, backed by medical expertise and research.",
+        "sescribe": "US-PC-TOP-23. A trusted medical information platform providing expert health resources and patient education materials.",
+        "category": "Medical Resources",
+        "tags": ["Healthcare Services", "Research Tools", "Educational Content", "First Aid Resources", "Health Information"]
+    },
+    "nih.gov": {
+        "description": "The official website of the National Institutes of Health, providing medical research and health information.",
+        "content": "NIH offers comprehensive health information, research findings, clinical trials data, and scientific resources for both healthcare professionals and the public.",
+        "sescribe": "US-PC-TOP-24. A authoritative source for medical research, health information, and scientific resources from the National Institutes of Health.",
+        "category": "Medical Resources",
+        "tags": ["Scientific Research", "Research Tools", "Educational Content", "Healthcare Services", "Clinical Resources"]
+    },
+    "tripadvisor.com": {
+        "description": "A travel planning platform featuring user reviews, bookings, and recommendations for destinations worldwide.",
+        "content": "TripAdvisor combines user-generated reviews, travel guides, and booking services for hotels, restaurants, and attractions, helping travelers plan and book their trips.",
+        "sescribe": "US-PC-TOP-25. A comprehensive travel platform providing user reviews, booking services, and travel planning resources.",
+        "category": "Travel Guides",
+        "tags": ["Hotel Reservations", "Restaurant Reviews", "Local Guides", "Service Booking", "Community Reviews"]
+    },
+    "microsoft.com": {
+        "description": "The official website for Microsoft Corporation, offering software, cloud services, and technology solutions.",
+        "content": "Microsoft's website provides access to their products, cloud services, developer tools, and enterprise solutions, featuring Windows, Office 365, Azure, and various business and consumer technologies.",
+        "sescribe": "US-PC-TOP-26. A comprehensive technology platform offering software products, cloud services, and enterprise solutions from Microsoft.",
+        "category": "Tech Reviews",
+        "tags": ["Cloud Platforms", "Software Downloads", "Business Tools", "Developer Resources", "Digital Products"]
+    },
+    "netflix.com": {
+        "description": "A leading streaming platform offering original and licensed movies, TV shows, and documentaries.",
+        "content": "Netflix provides subscription-based streaming of movies, TV series, documentaries, and original content across multiple devices, with personalized recommendations and profiles.",
+        "sescribe": "US-PC-TOP-27. A premium streaming service delivering diverse entertainment content through personalized viewing experiences.",
+        "category": "Video Streaming",
+        "tags": ["Entertainment News", "Media Archives", "Content Creation", "Streaming Services", "Movie Reviews"]
+    },
+    "indeed.com": {
+        "description": "A global job search platform connecting job seekers with employers through job listings and career resources.",
+        "content": "Indeed aggregates job listings from various sources, providing job search tools, company reviews, salary information, and career development resources.",
+        "sescribe": "US-PC-TOP-28. A comprehensive job search platform facilitating connections between employers and job seekers worldwide.",
+        "category": "Job Boards",
+        "tags": ["Career Resources", "Professional Networks", "Company Reviews", "Salary Data", "Business Tools"]
+    },
+    "twitch.tv": {
+        "description": "A live streaming platform primarily focused on gaming content, creative arts, and interactive entertainment.",
+        "content": "Twitch enables live streaming of gaming, creative content, and interactive entertainment, featuring chat interaction, subscriptions, and community building features.",
+        "sescribe": "US-PC-TOP-29. A dynamic live streaming platform specializing in gaming content and creative entertainment.",
+        "category": "Live Streaming",
+        "tags": ["Gaming Communities", "Content Creation", "Entertainment News", "Social Networks", "Creative Platform"]
+    },
+    "nytimes.com": {
+        "description": "The digital platform of The New York Times, providing news, analysis, and multimedia content.",
+        "content": "The New York Times website delivers breaking news, in-depth reporting, multimedia features, and opinion pieces across global, national, and cultural topics.",
+        "sescribe": "US-PC-TOP-30. A premier digital news platform offering comprehensive coverage and analysis of global events.",
+        "category": "News Platform",
+        "tags": ["Breaking News", "Political Coverage", "Cultural News", "Media Archives", "Opinion Platform"]
+    },
+    "spotify.com": {
+        "description": "A digital music and podcast streaming service offering millions of tracks and audio content.",
+        "content": "Spotify provides on-demand access to music, podcasts, and audio content, featuring personalized playlists, artist radio stations, and social sharing features.",
+        "sescribe": "US-PC-TOP-31. A comprehensive music streaming platform delivering personalized audio experiences and podcast content.",
+        "category": "Music Platforms",
+        "tags": ["Audio Streaming", "Podcast Directory", "Content Creation", "Entertainment News", "Social Networks"]
+    },
+    "webmd.com": {
+        "description": "A trusted source for medical information, health news, and wellness resources.",
+        "content": "WebMD provides comprehensive health information, symptom checkers, medication guides, and wellness tools for consumers and healthcare professionals.",
+        "sescribe": "US-PC-TOP-32. A reliable health information platform offering medical resources and wellness guidance.",
+        "category": "Medical Resources",
+        "tags": ["Healthcare Services", "First Aid Resources", "Educational Content", "Health Information", "Research Tools"]
+    },
+    "cnn.com": {
+        "description": "A leading news network providing breaking news, analysis, and multimedia content globally.",
+        "content": "CNN delivers 24/7 news coverage, featuring breaking news, politics, business, entertainment, and technology updates through articles, videos, and live streaming.",
+        "sescribe": "US-PC-TOP-33. A comprehensive news network offering real-time coverage and analysis of global events.",
+        "category": "News Platform",
+        "tags": ["Breaking News", "Political Coverage", "Live Streaming", "Media Archives", "Entertainment News"]
+    },
+    "github.com": {
+        "description": "A platform for software development and version control using Git, hosting millions of repositories.",
+        "content": "GitHub enables code hosting, collaboration, and version control for software projects, featuring issue tracking, pull requests, and project management tools.",
+        "sescribe": "US-PC-TOP-34. A collaborative development platform facilitating code hosting and project management for developers.",
+        "category": "Developer Resources",
+        "tags": ["Code Repository", "Version Control", "Project Management", "Documentation", "Collaborative Platform"]
+    },
+    "ebay.com": {
+        "description": "A global e-commerce platform for buying and selling new and used items through auctions and fixed-price listings.",
+        "content": "eBay connects buyers and sellers worldwide, offering various shopping categories, auction-style listings, and secure payment processing.",
+        "sescribe": "US-PC-TOP-35. An online marketplace enabling global commerce through auctions and direct sales.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Auction Sites", "Price Comparison", "Digital Products", "Service Booking"]
+    },
+    "forbes.com": {
+        "description": "A business news website providing financial news, analysis, and entrepreneurial insights.",
+        "content": "Forbes delivers business news, financial information, and entrepreneurial content, featuring company profiles, leadership insights, and wealth rankings.",
+        "sescribe": "US-PC-TOP-36. A premier business news platform offering financial insights and entrepreneurial content.",
+        "category": "Business News",
+        "tags": ["Financial News", "Industry Analysis", "Business Tools", "News Platform", "Professional Networks"]
+    },
+    "target.com": {
+        "description": "The online retail platform for Target, offering a wide range of products with various shopping options.",
+        "content": "Target's e-commerce site provides access to their product catalog, featuring home goods, electronics, clothing, and grocery items with delivery and pickup options.",
+        "sescribe": "US-PC-TOP-37. A comprehensive retail platform combining online shopping with local store services.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Digital Products", "Local Guides", "Price Comparison", "Service Booking"]
+    },
+    "etsy.com": {
+        "description": "An e-commerce platform focused on handmade, vintage, and unique items from independent sellers.",
+        "content": "Etsy connects creative entrepreneurs with buyers, featuring handcrafted items, vintage goods, and unique products across various categories.",
+        "sescribe": "US-PC-TOP-38. A marketplace platform specializing in unique, handmade, and vintage items from independent creators.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Handmade Goods", "Creative Platform", "Digital Products", "Service Booking"]
+    },
+    "booking.com": {
+        "description": "A travel booking platform offering accommodations, flights, car rentals, and vacation packages.",
+        "content": "Booking.com provides comprehensive travel services, including hotel bookings, flight reservations, and travel packages with user reviews and price comparisons.",
+        "sescribe": "US-PC-TOP-39. A global travel booking platform facilitating accommodation and transportation reservations.",
+        "category": "Travel Guides",
+        "tags": ["Hotel Reservations", "Flight Booking", "Service Booking", "Price Comparison", "Local Guides"]
+    },
+    "discord.com": {
+        "description": "A communication platform designed for communities, featuring voice, video, and text chat.",
+        "content": "Discord provides real-time communication through servers, channels, and direct messaging, popular among gaming and interest-based communities.",
+        "sescribe": "US-PC-TOP-40. A community-focused communication platform offering voice, video, and text interaction.",
+        "category": "Social Networks",
+        "tags": ["Gaming Communities", "Chat Platform", "Community Events", "Voice Chat", "Content Sharing"]
+    },
+    "zoom.us": {
+        "description": "A video conferencing platform providing remote communication and collaboration tools.",
+        "content": "Zoom offers video conferencing, online meetings, chat, and webinar features for business and personal use, supporting remote work and virtual events.",
+        "sescribe": "US-PC-TOP-41. A leading video conferencing platform enabling remote communication and virtual collaboration.",
+        "category": "Business Tools",
+        "tags": ["Video Conferencing", "Remote Work", "Collaboration Tools", "Live Streaming", "Professional Networks"]
+    },
+    "healthline.com": {
+        "description": "A comprehensive health information website providing medical content and wellness resources.",
+        "content": "Healthline delivers evidence-based health information, medical news, and wellness guides, featuring expert-reviewed content and practical health tools.",
+        "sescribe": "US-PC-TOP-42. A trusted health information resource offering expert-reviewed medical content and wellness guidance.",
+        "category": "Medical Resources",
+        "tags": ["Healthcare Services", "Educational Content", "First Aid Resources", "Health Information", "Research Tools"]
+    },
+    "craigslist.org": {
+        "description": "A classified advertisements website featuring local listings for jobs, housing, goods, and services.",
+        "content": "Craigslist provides community-based classified ads and forums, covering categories from jobs and housing to items for sale and local events.",
+        "sescribe": "US-PC-TOP-43. A community-driven classified ads platform facilitating local commerce and connections.",
+        "category": "Classified Ads",
+        "tags": ["Job Boards", "Housing Market", "Local Guides", "Community Events", "Service Booking"]
+    },
+    "office.com": {
+        "description": "Microsoft's cloud-based office suite providing productivity tools and collaboration features.",
+        "content": "Microsoft Office online platform offers web-based versions of Word, Excel, PowerPoint, and other productivity tools, with cloud storage and collaboration features.",
+        "sescribe": "US-PC-TOP-44. A cloud-based productivity suite offering Microsoft Office applications and collaboration tools.",
+        "category": "Business Tools",
+        "tags": ["Cloud Platforms", "Document Sharing", "Collaboration Tools", "Digital Products", "Professional Networks"]
+    },
+    "paypal.com": {
+        "description": "A digital payment platform facilitating online transactions and money transfers.",
+        "content": "PayPal provides secure online payment processing, money transfers, and digital wallet services for personal and business use.",
+        "sescribe": "US-PC-TOP-45. A global digital payment platform enabling secure online transactions and money transfers.",
+        "category": "Financial Services",
+        "tags": ["Payment Systems", "Digital Wallet", "Business Tools", "Security Services", "Financial News"]
+    },
+    "zillow.com": {
+        "description": "A real estate marketplace providing property listings, market data, and home-related resources.",
+        "content": "Zillow offers real estate listings, property values, market trends, and tools for buying, selling, and renting homes.",
+        "sescribe": "US-PC-TOP-46. A comprehensive real estate platform providing property information and market insights.",
+        "category": "Real Estate",
+        "tags": ["Housing Market", "Property Search", "Local Guides", "Price Comparison", "Service Booking"]
+    },
+    "usps.com": {
+        "description": "The official website of the United States Postal Service offering shipping and mailing services.",
+        "content": "USPS provides shipping services, tracking tools, postal rates, and location information for mail and package delivery.",
+        "sescribe": "US-PC-TOP-47. A postal service platform offering shipping, tracking, and mailing resources.",
+        "category": "Shipping Services",
+        "tags": ["Package Tracking", "Service Booking", "Local Guides", "Business Tools", "Price Comparison"]
+    },
+    "adobe.com": {
+        "description": "The official website for Adobe, offering creative software and digital solutions.",
+        "content": "Adobe provides creative software, digital document tools, and marketing solutions, featuring products like Photoshop, Acrobat, and Creative Cloud.",
+        "sescribe": "US-PC-TOP-48. A creative technology platform offering digital design tools and creative solutions.",
+        "category": "Creative Platform",
+        "tags": ["Design Resources", "Digital Products", "Software Downloads", "Cloud Storage", "Business Tools"]
+    },
+    "roblox.com": {
+        "description": "An online gaming platform allowing users to play and create games in a virtual environment.",
+        "content": "Roblox enables users to create, share, and play games within its platform, featuring social features and virtual economy elements.",
+        "sescribe": "US-PC-TOP-49. A user-generated gaming platform facilitating game creation and social interaction.",
+        "category": "Gaming Communities",
+        "tags": ["Game Development", "Social Networks", "Content Creation", "Virtual Worlds", "Creative Platform"]
+    },
+    "chase.com": {
+        "description": "The online banking platform for Chase Bank offering financial services and account management.",
+        "content": "Chase provides online banking services, credit cards, loans, and investment tools for personal and business customers.",
+        "sescribe": "US-PC-TOP-50. A comprehensive online banking platform offering financial services and account management tools.",
+        "category": "Financial Services",
+        "tags": ["Online Banking", "Investment Tools", "Business Tools", "Security Services", "Financial News"]
+    },
+    "homedepot.com": {
+        "description": "The online retail platform for Home Depot, offering home improvement products and services.",
+        "content": "Home Depot's e-commerce site provides home improvement products, tools, and project guides with delivery and pickup options.",
+        "sescribe": "US-PC-TOP-51. A home improvement retail platform offering products, services, and project resources.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Home Improvement", "Local Guides", "Service Booking", "Price Comparison"]
+    },
+    "hulu.com": {
+        "description": "A streaming platform offering on-demand television shows, movies, and original content.",
+        "content": "Hulu provides streaming access to current TV shows, movies, and original content with various subscription options.",
+        "sescribe": "US-PC-TOP-52. A premium streaming service delivering current TV shows and original content.",
+        "category": "Video Streaming",
+        "tags": ["Entertainment News", "Media Archives", "Content Creation", "Streaming Services", "TV Guides"]
+    },
+    "fedex.com": {
+        "description": "The official website for FedEx offering shipping, tracking, and logistics services.",
+        "content": "FedEx provides shipping services, package tracking, rate calculations, and logistics solutions for personal and business use.",
+        "sescribe": "US-PC-TOP-53. A global shipping and logistics platform offering delivery and tracking services.",
+        "category": "Shipping Services",
+        "tags": ["Package Tracking", "Service Booking", "Business Tools", "Local Guides", "Price Comparison"]
+    },
+    "bestbuy.com": {
+        "description": "The online retail platform for Best Buy, offering electronics and technology products.",
+        "content": "Best Buy's e-commerce site provides electronics, appliances, and technology products with expert advice and services.",
+        "sescribe": "US-PC-TOP-54. A technology retail platform offering electronics, appliances, and expert services.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Tech Reviews", "Digital Products", "Service Booking", "Price Comparison"]
+    },
+    "ups.com": {
+        "description": "The official website for UPS offering shipping, tracking, and supply chain solutions.",
+        "content": "UPS provides shipping services, package tracking, logistics solutions, and supply chain management tools.",
+        "sescribe": "US-PC-TOP-55. A global logistics platform offering shipping, tracking, and supply chain services.",
+        "category": "Shipping Services",
+        "tags": ["Package Tracking", "Service Booking", "Business Tools", "Local Guides", "Price Comparison"]
+    },
+    "steamcommunity.com": {
+        "description": "The community platform for Steam gaming service, featuring social networking and content sharing.",
+        "content": "Steam Community enables gamers to connect, share content, join groups, and participate in discussions about games and gaming culture.",
+        "sescribe": "US-PC-TOP-56. A gaming community platform facilitating social interaction and content sharing for Steam users.",
+        "category": "Gaming Communities",
+        "tags": ["Game Development", "Social Networks", "Content Creation", "Discussion Forums", "Digital Products"]
+    },
+    "dropbox.com": {
+        "description": "A cloud storage and file synchronization service for personal and business use.",
+        "content": "Dropbox provides cloud storage, file sharing, and collaboration tools, enabling users to store, sync, and share files across devices.",
+        "sescribe": "US-PC-TOP-57. A cloud storage platform offering file synchronization and collaboration features.",
+        "category": "Cloud Storage",
+        "tags": ["File Sharing", "Collaboration Tools", "Business Tools", "Digital Products", "Document Sharing"]
+    },
+    "samsung.com": {
+        "description": "The official website for Samsung Electronics, showcasing products and services.",
+        "content": "Samsung's website presents their electronics products, smart home solutions, and digital services with support resources and shopping options.",
+        "sescribe": "US-PC-TOP-58. A technology company platform featuring electronics products and smart solutions.",
+        "category": "Tech Reviews",
+        "tags": ["Digital Products", "Hardware Info", "Smart Home", "Tech Support", "Shopping Platform"]
+    },
+    "wellsfargo.com": {
+        "description": "The online banking platform for Wells Fargo offering financial services and account management.",
+        "content": "Wells Fargo provides online banking, investment services, loans, and financial tools for personal and business customers.",
+        "sescribe": "US-PC-TOP-59. A comprehensive banking platform offering financial services and online account management.",
+        "category": "Financial Services",
+        "tags": ["Online Banking", "Investment Tools", "Business Tools", "Security Services", "Financial News"]
+    },
+    "aliexpress.com": {
+        "description": "A global online retail platform offering products from Chinese manufacturers and suppliers.",
+        "content": "AliExpress connects international buyers with Chinese manufacturers, offering various products with worldwide shipping options.",
+        "sescribe": "US-PC-TOP-60. An international marketplace platform connecting global buyers with Chinese manufacturers.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Price Comparison", "Digital Products", "Service Booking", "International Trade"]
+    },
+    "cnet.com": {
+        "description": "A technology news and review website covering products, services, and industry trends.",
+        "content": "CNET provides technology news, product reviews, buying guides, and tech industry analysis for consumers and professionals.",
+        "sescribe": "US-PC-TOP-61. A comprehensive technology news platform offering product reviews and industry insights.",
+        "category": "Tech Reviews",
+        "tags": ["Digital Products", "Hardware Info", "Software Reviews", "Tech Support", "Industry Analysis"]
+    },
+    "wikihow.com": {
+        "description": "An online how-to guide featuring step-by-step instructions for various tasks and activities.",
+        "content": "wikiHow provides user-generated how-to guides with detailed instructions and illustrations across numerous categories.",
+        "sescribe": "US-PC-TOP-62. A collaborative how-to platform offering step-by-step guides for various tasks.",
+        "category": "Educational Content",
+        "tags": ["Knowledge Base", "DIY Guides", "Content Creation", "Research Tools", "Community Events"]
+    },
+    "wayfair.com": {
+        "description": "An e-commerce platform specializing in home goods, furniture, and decor.",
+        "content": "Wayfair offers a wide selection of furniture, home decor, and household items with design inspiration and shopping tools.",
+        "sescribe": "US-PC-TOP-63. A home furnishing retail platform providing furniture, decor, and design resources.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Home Improvement", "Design Resources", "Price Comparison", "Service Booking"]
+    },
+    "bankofamerica.com": {
+        "description": "The online banking platform for Bank of America offering financial services and account management.",
+        "content": "Bank of America provides online banking services, credit cards, investments, and financial tools for personal and business customers.",
+        "sescribe": "US-PC-TOP-64. A comprehensive banking platform offering financial services and digital banking solutions.",
+        "category": "Financial Services",
+        "tags": ["Online Banking", "Investment Tools", "Business Tools", "Security Services", "Financial News"]
+    },
+    "costco.com": {
+        "description": "The online retail platform for Costco Wholesale offering products and services to members.",
+        "content": "Costco's e-commerce site provides bulk products, exclusive deals, and services for wholesale club members.",
+        "sescribe": "US-PC-TOP-65. A membership-based retail platform offering wholesale products and exclusive services.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Digital Products", "Price Comparison", "Service Booking", "Membership Benefits"]
+    },
+    "yelp.com": {
+        "description": "A business review and local search platform featuring user-generated content.",
+        "content": "Yelp connects users with local businesses through reviews, ratings, and recommendations across various categories.",
+        "sescribe": "US-PC-TOP-66. A local business review platform facilitating community-driven recommendations.",
+        "category": "Local Guides",
+        "tags": ["Restaurant Reviews", "Service Booking", "Community Reviews", "Local Events", "Business Tools"]
+    },
+    "nvidia.com": {
+        "description": "The official website for NVIDIA Corporation, showcasing graphics technology and AI solutions.",
+        "content": "NVIDIA provides information about graphics cards, AI technology, and gaming solutions with driver downloads and support resources.",
+        "sescribe": "US-PC-TOP-67. A technology company platform specializing in graphics processing and AI solutions.",
+        "category": "Tech Reviews",
+        "tags": ["Hardware Info", "Gaming Technology", "AI Development", "Driver Downloads", "Tech Support"]
+    },
+    "lowes.com": {
+        "description": "The online retail platform for Lowe's offering home improvement products and services.",
+        "content": "Lowe's e-commerce site provides home improvement products, tools, and project resources with delivery and pickup options.",
+        "sescribe": "US-PC-TOP-68. A home improvement retail platform offering products, services, and DIY resources.",
+        "category": "Global Marketplaces",
+        "tags": ["Shopping Platform", "Home Improvement", "Local Guides", "Service Booking", "Price Comparison"]
+    },
+    "intuit.com": {
+        "description": "The official website for Intuit offering financial software and services.",
+        "content": "Intuit provides financial management software and services including TurboTax, QuickBooks, and Mint.",
+        "sescribe": "US-PC-TOP-69. A financial technology platform offering tax, accounting, and personal finance solutions.",
+        "category": "Financial Services",
+        "tags": ["Business Tools", "Tax Services", "Accounting Software", "Financial News", "Digital Products"]
+    },
+    "steampowered.com": {
+        "description": "The digital distribution platform for video games and related content.",
+        "content": "Steam offers digital game distribution, multiplayer gaming, and community features for PC gaming enthusiasts.",
+        "sescribe": "US-PC-TOP-70. A digital gaming platform providing game distribution and community features.",
+        "category": "Gaming Communities",
+        "tags": ["Game Development", "Digital Products", "Social Networks", "Content Creation", "Entertainment News"]
+    },
+    "dell.com": {
+        "description": "The official website for Dell Technologies offering computers and technology solutions.",
+        "content": "Dell provides personal and business computers, servers, storage solutions, and IT services with customization options.",
+        "sescribe": "US-PC-TOP-71. A technology retail platform offering computer hardware and enterprise solutions.",
+        "category": "Tech Reviews",
+        "tags": ["Hardware Info", "Digital Products", "Business Tools", "Tech Support", "Shopping Platform"]
+    },
+    "hp.com": {
+        "description": "The official website for HP Inc. offering computers, printers, and technology solutions.",
+        "content": "HP provides personal and business computing products, printing solutions, and IT services with support resources.",
+        "sescribe": "US-PC-TOP-72. A technology company platform offering computing and printing solutions.",
+        "category": "Tech Reviews",
+        "tags": ["Hardware Info", "Digital Products", "Business Tools", "Tech Support", "Shopping Platform"]
+    },
+    "airbnb.com": {
+        "description": "A platform for booking unique accommodations and experiences worldwide.",
+        "content": "Airbnb connects travelers with hosts offering unique stays and experiences, featuring verified listings and user reviews.",
+        "sescribe": "US-PC-TOP-73. A travel accommodation platform connecting guests with unique stays and local experiences.",
+        "category": "Travel Guides",
+        "tags": ["Hotel Reservations", "Local Guides", "Service Booking", "Community Reviews", "Experience Platform"]
+    },
+    "aol.com": {
+        "description": "A web portal providing news, email, and digital services.",
+        "content": "AOL offers email services, news aggregation, and various web services including entertainment and lifestyle content.",
+        "sescribe": "US-PC-TOP-74. A comprehensive web portal delivering news, email services, and digital content.",
+        "category": "General Search",
+        "tags": ["Email Services", "News Platform", "Entertainment News", "Digital Products", "Media Archives"]
+    },
+    "glassdoor.com": {
+        "description": "A career platform featuring company reviews, salaries, and job listings.",
+        "content": "Glassdoor provides company reviews, salary information, interview insights, and job search tools from employee perspectives.",
+        "sescribe": "US-PC-TOP-75. A career insights platform offering company reviews and job search resources.",
+        "category": "Job Boards",
+        "tags": ["Career Resources", "Company Reviews", "Salary Data", "Professional Networks", "Business Tools"]
+    },
+    "shopify.com": {
+        "description": "An e-commerce platform enabling businesses to create online stores and sell products.",
+        "content": "Shopify provides tools and services for creating and managing online stores, including payment processing and inventory management.",
+        "sescribe": "US-PC-TOP-76. A comprehensive e-commerce platform enabling businesses to establish online retail presence.",
+        "category": "Business Tools",
+        "tags": ["E-commerce Platform", "Digital Products", "Payment Systems", "Business Tools", "Shopping Platform"]
+    },
+    "slack.com": {
+        "description": "A business communication platform offering team collaboration and messaging tools.",
+        "content": "Slack enables team communication through channels, direct messaging, file sharing, and integration with various work tools.",
+        "sescribe": "US-PC-TOP-77. A workplace communication platform facilitating team collaboration and productivity.",
+        "category": "Business Tools",
+        "tags": ["Chat Platform", "Collaboration Tools", "File Sharing", "Professional Networks", "Remote Work"]
+    },
+    "squarespace.com": {
+        "description": "A website building and hosting platform offering design tools and e-commerce features.",
+        "content": "Squarespace provides website templates, design tools, and hosting services for creating professional websites and online stores.",
+        "sescribe": "US-PC-TOP-78. A website creation platform offering design tools and hosting solutions.",
+        "category": "Creative Platform",
+        "tags": ["Web Design", "E-commerce Platform", "Design Resources", "Digital Products", "Business Tools"]
+    },
+    "expedia.com": {
+        "description": "A travel booking platform offering flights, hotels, car rentals, and vacation packages.",
+        "content": "Expedia provides comprehensive travel services including flight bookings, hotel reservations, and vacation planning tools.",
+        "sescribe": "US-PC-TOP-79. A comprehensive travel booking platform offering transportation and accommodation services.",
+        "category": "Travel Guides",
+        "tags": ["Flight Booking", "Hotel Reservations", "Service Booking", "Price Comparison", "Local Guides"]
+    },
+    "oracle.com": {
+        "description": "The official website for Oracle Corporation offering enterprise software and cloud solutions.",
+        "content": "Oracle provides database software, cloud infrastructure, and enterprise applications with technical resources and support.",
+        "sescribe": "US-PC-TOP-80. An enterprise technology platform offering database and cloud computing solutions.",
+        "category": "Business Tools",
+        "tags": ["Cloud Platforms", "Database Solutions", "Developer Resources", "Business Tools", "Tech Support"]
+    },
+    "coursera.org": {
+        "description": "An online learning platform offering courses from universities and organizations worldwide.",
+        "content": "Coursera provides online courses, certificates, and degrees from leading universities and companies across various disciplines.",
+        "sescribe": "US-PC-TOP-81. An educational platform delivering online courses and professional certificates.",
+        "category": "Educational Content",
+        "tags": ["Online Learning", "Professional Development", "Course Catalog", "Certification Programs", "Knowledge Base"]
+    },
+    "udemy.com": {
+        "description": "An online learning marketplace offering courses in various subjects and skills.",
+        "content": "Udemy connects instructors with learners through video courses covering technical, business, and creative skills.",
+        "sescribe": "US-PC-TOP-82. A skill development platform providing diverse online courses and training resources.",
+        "category": "Educational Content",
+        "tags": ["Online Learning", "Professional Development", "Course Catalog", "Digital Products", "Knowledge Base"]
+    },
+    "wix.com": {
+        "description": "A website building platform offering design tools and hosting services.",
+        "content": "Wix provides website templates, design tools, and hosting services for creating personal and business websites.",
+        "sescribe": "US-PC-TOP-83. A website creation platform offering intuitive design tools and hosting solutions.",
+        "category": "Creative Platform",
+        "tags": ["Web Design", "E-commerce Platform", "Design Resources", "Digital Products", "Business Tools"]
+    },
+    "salesforce.com": {
+        "description": "A cloud-based customer relationship management platform and enterprise software provider.",
+        "content": "Salesforce offers CRM software, cloud services, and business applications for sales, service, and marketing teams.",
+        "sescribe": "US-PC-TOP-84. An enterprise software platform providing CRM and business management solutions.",
+        "category": "Business Tools",
+        "tags": ["Cloud Platforms", "CRM Software", "Business Tools", "Sales Management", "Marketing Platform"]
+    },
+    "canva.com": {
+        "description": "An online graphic design platform offering creative tools and templates.",
+        "content": "Canva provides user-friendly design tools and templates for creating graphics, presentations, and marketing materials.",
+        "sescribe": "US-PC-TOP-85. A creative design platform offering intuitive tools and professional templates.",
+        "category": "Creative Platform",
+        "tags": ["Design Resources", "Content Creation", "Digital Products", "Marketing Platform", "Collaboration Tools"]
+    },
+    "grammarly.com": {
+        "description": "An AI-powered writing assistant platform offering grammar and style suggestions.",
+        "content": "Grammarly provides real-time writing assistance, grammar checking, and style improvement suggestions across various platforms.",
+        "sescribe": "US-PC-TOP-86. A writing enhancement platform offering AI-powered grammar and style assistance.",
+        "category": "Writing Tools",
+        "tags": ["Grammar Check", "Content Creation", "Educational Content", "Professional Tools", "AI Technology"]
+    },
+    "epicgames.com": {
+        "description": "A digital gaming platform offering game distribution and development tools.",
+        "content": "Epic Games provides game distribution, development tools, and gaming services including the Unreal Engine.",
+        "sescribe": "US-PC-TOP-87. A gaming platform offering game distribution and development resources.",
+        "category": "Gaming Communities",
+        "tags": ["Game Development", "Digital Products", "Developer Resources", "Content Creation", "Entertainment News"]
+    },
+    "mailchimp.com": {
+        "description": "An email marketing and automation platform for businesses.",
+        "content": "Mailchimp offers email marketing, automation tools, and customer relationship management features for businesses.",
+        "sescribe": "US-PC-TOP-88. A marketing automation platform providing email campaign and CRM solutions.",
+        "category": "Marketing Platform",
+        "tags": ["Email Marketing", "Business Tools", "CRM Software", "Content Creation", "Analytics Tools"]
+    },
+    "godaddy.com": {
+        "description": "A domain registrar and web hosting service provider.",
+        "content": "GoDaddy provides domain registration, web hosting, website building tools, and business services.",
+        "sescribe": "US-PC-TOP-89. A web services platform offering domain registration and hosting solutions.",
+        "category": "Web Services",
+        "tags": ["Domain Services", "Web Hosting", "Business Tools", "Digital Products", "Tech Support"]
+    },
+    "hubspot.com": {
+        "description": "An inbound marketing and sales platform offering CRM and automation tools.",
+        "content": "HubSpot provides marketing, sales, and service software with CRM and automation capabilities for businesses.",
+        "sescribe": "US-PC-TOP-90. A comprehensive marketing and sales platform offering CRM and automation solutions.",
+        "category": "Marketing Platform",
+        "tags": ["CRM Software", "Marketing Tools", "Business Tools", "Sales Management", "Content Creation"]
+    },
+    "zendesk.com": {
+        "description": "A customer service and engagement platform for businesses.",
+        "content": "Zendesk offers customer support software, help desk solutions, and engagement tools for businesses.",
+        "sescribe": "US-PC-TOP-91. A customer service platform providing support and engagement solutions.",
+        "category": "Business Tools",
+        "tags": ["Customer Support", "Help Desk", "Business Tools", "Chat Platform", "Service Management"]
+    },
+    "asana.com": {
+        "description": "A project management and team collaboration platform.",
+        "content": "Asana provides project management tools, task tracking, and team collaboration features for businesses.",
+        "sescribe": "US-PC-TOP-92. A project management platform facilitating team collaboration and task organization.",
+        "category": "Business Tools",
+        "tags": ["Project Management", "Collaboration Tools", "Task Tracking", "Team Planning", "Business Tools"]
+    },
+    "trello.com": {
+        "description": "A visual project management and organization platform.",
+        "content": "Trello offers visual project management tools using boards, lists, and cards for task organization.",
+        "sescribe": "US-PC-TOP-93. A visual organization platform providing project and task management tools.",
+        "category": "Business Tools",
+        "tags": ["Project Management", "Collaboration Tools", "Task Tracking", "Team Planning", "Visual Organization"]
+    },
+    "notion.so": {
+        "description": "A collaborative workspace platform for notes, documents, and project management.",
+        "content": "Notion provides all-in-one workspace tools for notes, documents, wikis, and project management.",
+        "sescribe": "US-PC-TOP-94. A comprehensive workspace platform combining notes, documents, and project tools.",
+        "category": "Business Tools",
+        "tags": ["Note Taking", "Document Sharing", "Project Management", "Collaboration Tools", "Knowledge Base"]
+    },
+    "fiverr.com": {
+        "description": "A freelance services marketplace connecting businesses with freelancers.",
+        "content": "Fiverr connects businesses with freelancers offering various digital services across multiple categories.",
+        "sescribe": "US-PC-TOP-95. A freelance marketplace platform facilitating service-based gig economy.",
+        "category": "Job Boards",
+        "tags": ["Freelance Work", "Service Booking", "Digital Products", "Professional Networks", "Business Tools"]
+    },
+    "upwork.com": {
+        "description": "A freelance talent platform connecting businesses with professional freelancers.",
+        "content": "Upwork provides a marketplace for freelance talent across various professional categories with project management tools.",
+        "sescribe": "US-PC-TOP-96. A professional freelance platform connecting businesses with skilled contractors.",
+        "category": "Job Boards",
+        "tags": ["Freelance Work", "Professional Networks", "Project Management", "Business Tools", "Service Booking"]
+    },
+    "atlassian.com": {
+        "description": "A software development and collaboration tools provider.",
+        "content": "Atlassian offers software development and team collaboration tools including Jira and Confluence.",
+        "sescribe": "US-PC-TOP-97. A development tools platform providing collaboration and project management solutions.",
+        "category": "Developer Resources",
+        "tags": ["Project Management", "Collaboration Tools", "Software Development", "Documentation", "Business Tools"]
+    },
+    "weebly.com": {
+        "description": "A website building and e-commerce platform for businesses.",
+        "content": "Weebly provides website building tools, e-commerce features, and hosting services for creating online presence.",
+        "sescribe": "US-PC-TOP-98. A website creation platform offering design tools and e-commerce solutions.",
+        "category": "Creative Platform",
+        "tags": ["Web Design", "E-commerce Platform", "Design Resources", "Digital Products", "Business Tools"]
+    },
+    "freshworks.com": {
+        "description": "A business software suite offering customer engagement and IT solutions.",
+        "content": "Freshworks provides customer engagement software, IT service management, and CRM solutions for businesses.",
+        "sescribe": "US-PC-TOP-99. A business software platform offering customer engagement and IT management tools.",
+        "category": "Business Tools",
+        "tags": ["Customer Support", "IT Management", "CRM Software", "Business Tools", "Service Management"]
+    },
+    "monday.com": {
+        "description": "A work operating system for team management and collaboration.",
+        "content": "Monday.com offers visual project management, team collaboration, and workflow automation tools.",
+        "sescribe": "US-PC-TOP-100. A work management platform providing visual project and team collaboration tools.",
+        "category": "Business Tools",
+        "tags": ["Project Management", "Collaboration Tools", "Task Tracking", "Team Planning", "Workflow Automation"]
+    }
+} 
